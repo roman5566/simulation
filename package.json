@@ -1,0 +1,11 @@
+{
+  "name": "simulation",
+  "version": "0.0.0",
+  "description": "simulation",
+  "author": "",
+  "license": "WTFPL",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/feisty/simulation"
+  }
+}
