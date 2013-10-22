@@ -7,5 +7,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/feisty/simulation"
+  },
+  "dependencies": {
+    "body": "feisty/body",
+    "clock": "feisty/clock",
+    "model": "feisty/model"
   }
 }
